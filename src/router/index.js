@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Pic from '@/components/pic'
 // import HelloWorld from '@/components/HelloWorld'
 Vue.use(Router)
-
+//jjjjjjjjjjjjjjjjjjjj
 export function createRouter () {
   return new Router({
     mode: 'history',
